@@ -70,7 +70,7 @@ Thank you for playing.
 
 
 
-2. What was the hardest part of this lab? The hardest part of this lab was
+2. What was the hardest part of this lab? The hardest part of this lab was submitting it for autograding.
 
 
 
